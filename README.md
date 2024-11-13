@@ -62,3 +62,27 @@ This project consists of an ETL (Extract, Transform, Load) pipeline that reads c
 - Update the CSV file path in the scripts to match your system's directory structure.
 
 ## Project Structure
+air-quality-etl/ ├── data_processing_pipeline.py # Airflow DAG script ├── etl_script.ipynb # Jupyter Notebook with data processing code ├── cities.csv # Processed city data ├── index_df.csv # Index data ├── pollutants_df.csv # Pollutants data ├── README.md # Project documentation └── requirements.txt # Python dependencies
+
+## Usage
+1. **Run the Airflow Scheduler**:
+    ```bash
+    airflow scheduler
+    ```
+
+2. **Trigger the DAG**:
+    - Go to the Airflow UI (`http://localhost:8080`) and manually trigger the `data_processing_pipeline` DAG.
+
+## DAG Workflow
+1. **Read City Data**: Reads city data from a CSV file.
+2. **Fetch Air Quality Data**: Calls the external API to fetch data for each city.
+3. **Transform Data**: Cleans, processes, and prepares data for storage.
+4. **Load Data to MySQL**: Inserts the data into the MySQL database.
+
+## Future Enhancements
+- Add more data validation checks.
+- Implement data visualizations.
+- Integrate logging and error tracking.
+- Expand the pipeline to handle other data sources and regions.
+
+
