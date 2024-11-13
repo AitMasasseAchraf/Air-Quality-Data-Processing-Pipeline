@@ -1,0 +1,588 @@
+city,lat,lng,admin_name
+Casablanca,33.5333,-7.5833,Casablanca-Settat
+Fès,34.0433,-5.0033,Fès-Meknès
+Marrakech,31.63,-8.0089,Marrakech-Safi
+Tangier,35.7767,-5.8039,Tanger-Tétouan-Al Hoceïma
+Sale,34.0333,-6.8,Rabat-Salé-Kénitra
+Rabat,34.0209,-6.8416,Rabat-Salé-Kénitra
+Meknès,33.895,-5.5547,Fès-Meknès
+Oujda-Angad,34.6867,-1.9114,Oriental
+Kenitra,34.25,-6.5833,Rabat-Salé-Kénitra
+Agadir,30.4333,-9.6,Souss-Massa
+Tétouan,35.5667,-5.3667,Tanger-Tétouan-Al Hoceïma
+Taourirt,34.4169,-2.885,Oriental
+Temara,33.9267,-6.9122,Rabat-Salé-Kénitra
+Safi,32.2833,-9.2333,Marrakech-Safi
+Khénifra,32.9394,-5.6675,Béni Mellal-Khénifra
+El Jadid,33.2333,-8.5,Casablanca-Settat
+Laâyoune,27.1536,-13.2033,Laâyoune-Sakia El Hamra
+Mohammedia,33.6833,-7.3833,Casablanca-Settat
+Kouribga,32.8833,-6.9167,Béni Mellal-Khénifra
+Béni Mellal,32.3394,-6.3608,Béni Mellal-Khénifra
+Ait Melloul,30.3342,-9.4972,Souss-Massa
+Nador,35.1667,-2.9333,Oriental
+Taza,34.2167,-4.0167,Fès-Meknès
+Settat,33.0,-7.6167,Casablanca-Settat
+Barrechid,33.2667,-7.5833,Casablanca-Settat
+Al Khmissat,33.8167,-6.0667,Rabat-Salé-Kénitra
+Inezgane,30.3658,-9.5381,Souss-Massa
+Ksar El Kebir,35.009,-5.9,Tanger-Tétouan-Al Hoceïma
+My Drarga,30.38,-9.48,Souss-Massa
+Larache,35.1833,-6.15,Tanger-Tétouan-Al Hoceïma
+Guelmim,28.9833,-10.0667,Guelmim-Oued Noun
+Berkane,34.9167,-2.3167,Oriental
+Ad Dakhla,23.7081,-15.9456,Dakhla-Oued Ed-Dahab
+Bouskoura,33.4489,-7.6486,Casablanca-Settat
+Al Fqih Ben Çalah,32.5,-6.5333,Béni Mellal-Khénifra
+Oued Zem,32.8667,-6.5667,Béni Mellal-Khénifra
+Sidi Slimane,34.26,-5.92,Rabat-Salé-Kénitra
+Errachidia,31.9319,-4.4244,Drâa-Tafilalet
+Guercif,34.2333,-3.3667,Oriental
+Oulad Teïma,30.4,-9.2167,Souss-Massa
+Ben Guerir,32.23,-7.95,Marrakech-Safi
+Wislane,30.225,-8.3801,Souss-Massa
+Tiflet,33.8931,-6.3069,Rabat-Salé-Kénitra
+Lqoliaa,30.2908,-9.4661,Souss-Massa
+Taroudannt,30.471,-8.8806,Souss-Massa
+Sefrou,33.83,-4.83,Fès-Meknès
+Essaouira,31.5131,-9.7697,Marrakech-Safi
+Fnidq,35.85,-5.35,Tanger-Tétouan-Al Hoceïma
+Ait Ali,30.1765,-9.4886,Souss-Massa
+Sidi Qacem,34.2167,-5.7,Rabat-Salé-Kénitra
+Tiznit,29.7167,-9.7167,Souss-Massa
+Moulay Abdallah,33.1978,-8.5883,Casablanca-Settat
+Tan-Tan,28.4333,-11.1,Guelmim-Oued Noun
+Warzat,30.9167,-6.9167,Drâa-Tafilalet
+Youssoufia,32.25,-8.5333,Marrakech-Safi
+Sa’ada,31.621,-8.1303,Marrakech-Safi
+Martil,35.6167,-5.2667,Tanger-Tétouan-Al Hoceïma
+Aïn Harrouda,33.6372,-7.4483,Casablanca-Settat
+Souq Sebt Oulad Nemma,32.2948,-6.7007,Béni Mellal-Khénifra
+Skhirate,33.85,-7.03,Rabat-Salé-Kénitra
+Ouezzane,34.8,-5.5833,Tanger-Tétouan-Al Hoceïma
+Sidi Yahya Zaer,33.7105,-6.8831,Rabat-Salé-Kénitra
+Benslimane,33.6167,-7.1167,Casablanca-Settat
+Semara,26.7394,-11.6703,Laâyoune-Sakia El Hamra
+Al Hoceïma,35.2472,-3.9322,Tanger-Tétouan-Al Hoceïma
+Beni Enzar,35.2667,-2.9333,Oriental
+M’diq,35.6858,-5.3253,Tanger-Tétouan-Al Hoceïma
+Sidi Bennour,32.65,-8.4333,Casablanca-Settat
+Midalt,32.68,-4.73,Drâa-Tafilalet
+Douar Ain Chkef,33.9619,-5.0813,Fès-Meknès
+Azrou,33.4417,-5.2247,Fès-Meknès
+El Kelaa des Srarhna,32.0481,-7.4083,Marrakech-Safi
+Ain El Aouda,33.8111,-6.7922,Rabat-Salé-Kénitra
+Beni Yakhlef,33.6555,-7.3221,Casablanca-Settat
+Ad Darwa,33.4167,-7.5333,Casablanca-Settat
+Al Aaroui,35.0029,-3.0311,Oriental
+Qasbat Tadla,32.6,-6.2667,Béni Mellal-Khénifra
+Boujad,32.7667,-6.4,Béni Mellal-Khénifra
+Tinajdad,31.5,-5.0167,Drâa-Tafilalet
+Jerada,34.3117,-2.1636,Oriental
+Douar Bni Malek,34.78,-5.6425,Tanger-Tétouan-Al Hoceïma
+Chefchaouene,35.1714,-5.2697,Tanger-Tétouan-Al Hoceïma
+Mrirt,33.1667,-5.5667,Béni Mellal-Khénifra
+Cabo Bojador,26.1333,-14.5,Laâyoune-Sakia El Hamra
+Sidi Mohamed Lahmar,34.7167,-6.2667,Rabat-Salé-Kénitra
+Tineghir,31.5147,-5.5328,Drâa-Tafilalet
+El Aïoun,34.5852,-2.5056,Oriental
+Azemmour,33.2878,-8.3422,Casablanca-Settat
+Temsia,30.36,-9.414,Souss-Massa
+Zoumi,34.8,-5.35,Tanger-Tétouan-Al Hoceïma
+Douar Laouamra,31.8,-8.7167,Marrakech-Safi
+Zagora,30.3306,-5.8381,Drâa-Tafilalet
+Ait Ourir,31.5644,-7.6628,Marrakech-Safi
+Sidi Bibi,30.2333,-9.5333,Souss-Massa
+Aziylal,31.9669,-6.5694,Béni Mellal-Khénifra
+Sidi Yahia El Gharb,34.3058,-6.3058,Rabat-Salé-Kénitra
+Biougra,30.2144,-9.3708,Souss-Massa
+Taounate,34.5358,-4.64,Fès-Meknès
+Bouznika,33.7897,-7.1575,Casablanca-Settat
+Aourir,30.4833,-9.6333,Souss-Massa
+Zaïo,34.9333,-2.7333,Oriental
+Aguelmous,33.15,-5.8333,Béni Mellal-Khénifra
+El Hajeb,33.6928,-5.3711,Fès-Meknès
+Dabouziya,33.3064,-8.3548,Casablanca-Settat
+Mnasra,34.7667,-5.5167,Tanger-Tétouan-Al Hoceïma
+Zeghanghane,35.15,-3.0,Oriental
+Imzouren,35.15,-3.85,Tanger-Tétouan-Al Hoceïma
+Oulad Zemam,32.35,-6.6333,Béni Mellal-Khénifra
+Ben Ahmed,33.0655,-7.2464,Casablanca-Settat
+Tit Mellil,33.5533,-7.4822,Casablanca-Settat
+Arbaoua,34.9,-5.9167,Rabat-Salé-Kénitra
+Douar Oulad Hssine,33.068,-8.5107,Casablanca-Settat
+Bahharet Oulad Ayyad,34.7702,-6.3047,Rabat-Salé-Kénitra
+Mechraa Bel Ksiri,34.56,-5.95,Rabat-Salé-Kénitra
+Mograne,34.4167,-6.4333,Rabat-Salé-Kénitra
+Dar Ould Zidouh,32.3167,-6.9,Béni Mellal-Khénifra
+Asilah,35.4667,-6.0333,Tanger-Tétouan-Al Hoceïma
+Al ’Attawia,31.8347,-7.3125,Marrakech-Safi
+Demnat,31.7311,-7.0361,Béni Mellal-Khénifra
+Lalla Mimouna,34.85,-6.0669,Rabat-Salé-Kénitra
+Fritissa,33.6167,-3.55,Fès-Meknès
+Arfoud,31.4361,-4.2328,Drâa-Tafilalet
+Tameslouht,31.5,-8.1,Marrakech-Safi
+Bou Arfa,32.5309,-1.965,Oriental
+Sidi Smai’il,32.8167,-8.5,Casablanca-Settat
+Taza,35.0639,-5.2025,Tanger-Tétouan-Al Hoceïma
+Souk et Tnine Jorf el Mellah,34.4833,-5.5169,Rabat-Salé-Kénitra
+Mehdya,34.2597,-6.65,Rabat-Salé-Kénitra
+Oulad Hammou,33.2499,-8.3346,Casablanca-Settat
+Douar Oulad Aj-jabri,32.2567,-6.7839,Béni Mellal-Khénifra
+Aïn Taoujdat,33.9333,-5.2167,Fès-Meknès
+Dar Bel Hamri,34.1889,-5.9697,Rabat-Salé-Kénitra
+Chichaoua,31.5333,-8.7667,Marrakech-Safi
+Tahla,34.05,-4.42,Fès-Meknès
+Bellaa,30.0314,-9.5542,Souss-Massa
+Oulad Yaïch,32.4167,-6.3333,Béni Mellal-Khénifra
+Ksebia,34.2933,-6.1594,Rabat-Salé-Kénitra
+Ourika Wawrmas,30.7167,-6.5333,Drâa-Tafilalet
+Tamorot,34.9333,-4.7833,Tanger-Tétouan-Al Hoceïma
+Moulay Bousselham,34.8786,-6.2933,Rabat-Salé-Kénitra
+Iheddadene,35.15,-2.9667,Oriental
+Sabaa Aiyoun,33.9,-5.3667,Fès-Meknès
+Bourdoud,34.5922,-4.5492,Fès-Meknès
+Aït Faska,31.5058,-7.7161,Marrakech-Safi
+Rich,32.2583,-4.5056,Drâa-Tafilalet
+Boureït,34.9833,-4.9167,Tanger-Tétouan-Al Hoceïma
+Lamzoudia,31.5833,-8.4833,Marrakech-Safi
+Oulad Said,32.632,-8.8456,Casablanca-Settat
+Missour,33.05,-3.9833,Fès-Meknès
+Ain Aicha,34.4833,-4.7,Fès-Meknès
+Zawyat ech Cheïkh,32.6414,-5.9206,Béni Mellal-Khénifra
+Bouknadel,34.1333,-6.7333,Rabat-Salé-Kénitra
+El Ghiate,32.0331,-9.1625,Marrakech-Safi
+Safsaf,34.5581,-6.0078,Rabat-Salé-Kénitra
+Ouaoula,31.8667,-6.75,Béni Mellal-Khénifra
+Douar Olad. Salem,32.8739,-8.8588,Casablanca-Settat
+Oulad Tayeb,33.9598,-4.9954,Fès-Meknès
+Ain Dfali,34.599,-5.5488,Rabat-Salé-Kénitra
+Echemmaia Est,32.0786,-8.6325,Marrakech-Safi
+Oulad Barhil,30.6408,-8.475,Souss-Massa
+Douar ’Ayn Dfali,33.95,-4.45,Fès-Meknès
+Bir Jdid,33.3737,-8.0002,Casablanca-Settat
+Setti Fatma,31.2256,-7.6758,Marrakech-Safi
+Skoura,31.0606,-6.5556,Drâa-Tafilalet
+Douar Ouled Ayad,32.2,-6.7975,Casablanca-Settat
+Zawyat an Nwaçer,33.3611,-7.6114,Casablanca-Settat
+Khenichet-sur Ouerrha,34.4333,-5.6667,Rabat-Salé-Kénitra
+Ayt Mohamed,32.5667,-6.9833,Béni Mellal-Khénifra
+Gueznaia,35.7066,-5.9088,Tanger-Tétouan-Al Hoceïma
+Oulad Hassoune,31.6503,-7.8361,Marrakech-Safi
+Bni Frassen,34.3833,-4.3833,Fès-Meknès
+Douar Imoukkane,35.0298,-4.8125,Tanger-Tétouan-Al Hoceïma
+Tnine Lgharbia,32.5719,-8.8568,Casablanca-Settat
+Tighedouine,31.4236,-7.5208,Marrakech-Safi
+Alnif,31.1167,-5.1667,Drâa-Tafilalet
+Sidi Lmokhtar,31.57,-9.01,Marrakech-Safi
+Souk Tlet El Gharb,34.6211,-6.1336,Rabat-Salé-Kénitra
+Arbi’a Tighadwiyn,31.4279,-7.5253,Marrakech-Safi
+Had Oulad Issa,32.9519,-8.6982,Casablanca-Settat
+Tidili Masfiywat,31.4667,-7.6167,Marrakech-Safi
+Sidi Ifni,29.3833,-10.1667,Guelmim-Oued Noun
+Tamgrout,30.2667,-5.6667,Drâa-Tafilalet
+Selouane,35.0667,-2.9333,Oriental
+Amizmiz,31.2167,-8.25,Marrakech-Safi
+Afourar,32.2167,-6.5,Béni Mellal-Khénifra
+Asni,31.25,-7.9833,Marrakech-Safi
+Tabount,30.88,-6.91,Drâa-Tafilalet
+Imi n’Oulaoun,31.4224,-6.5641,Drâa-Tafilalet
+Saka,34.6167,-3.4167,Oriental
+Bni Rzine,35.0108,-4.7262,Tanger-Tétouan-Al Hoceïma
+El Gara,33.2819,-7.2319,Casablanca-Settat
+Sidi Abdelkader,33.0494,-8.6886,Casablanca-Settat
+Imi-n-Tanout,31.16,-8.85,Marrakech-Safi
+Sidi Chiker,31.7453,-8.7069,Marrakech-Safi
+Sidi Rahal,33.7897,-7.1575,Casablanca-Settat
+Station des Essais M.V.A.,34.9352,-2.4306,Oriental
+Reçani,31.2859,-4.2751,Drâa-Tafilalet
+Aïn Cheggag,33.8833,-5.0333,Fès-Meknès
+Sidi Jaber,32.3833,-6.4167,Béni Mellal-Khénifra
+Jdour,32.1269,-8.7633,Marrakech-Safi
+Douar Lamrabih,34.8167,-5.8167,Rabat-Salé-Kénitra
+El Ksiba,32.5681,-6.0308,Béni Mellal-Khénifra
+Sidi Taibi,34.1917,-6.6845,Rabat-Salé-Kénitra
+’Ali Ben Sliman,31.91,-7.21,Marrakech-Safi
+Tarhzirt,32.4333,-6.1833,Béni Mellal-Khénifra
+Aït Tamlil,31.48,-6.94,Béni Mellal-Khénifra
+Had Zraqtane,31.45,-7.4,Marrakech-Safi
+El Mansouria,33.75,-7.3,Casablanca-Settat
+Oulad Embarek,32.2833,-6.4667,Béni Mellal-Khénifra
+Oulad Fraj,32.9667,-8.2333,Casablanca-Settat
+Jnane Bouih,32.0308,-8.7894,Marrakech-Safi
+Ahfir,34.9514,-2.1025,Oriental
+Ait Bousarane,31.7318,-7.0876,Béni Mellal-Khénifra
+Ait Bouziyane,33.8167,-5.2749,Fès-Meknès
+Oulad Salmane,34.3356,-6.4604,Rabat-Salé-Kénitra
+Douar Ait Sidi Daoud,31.6347,-7.6444,Marrakech-Safi
+Al Brouj,32.505,-7.1927,Casablanca-Settat
+Sidi Redouane,34.6833,-5.45,Tanger-Tétouan-Al Hoceïma
+Zaouïa Aït Ishak,32.76,-5.7233,Béni Mellal-Khénifra
+Imouzzer Kandar,33.73,-5.01,Fès-Meknès
+Douar Toulal,33.8951,-5.6021,Fès-Meknès
+Ait Ben Daoudi,31.6345,-7.644,Marrakech-Safi
+Beni Zouli,30.4839,-5.8619,Drâa-Tafilalet
+Oulmes,33.445,-6.0011,Rabat-Salé-Kénitra
+Karia Ba Mohamed,34.3667,-5.2,Fès-Meknès
+Tata,29.7428,-7.9725,Souss-Massa
+Jbabra,34.4314,-4.9642,Fès-Meknès
+Tamri,30.695,-9.825,Souss-Massa
+Sebt Gzoula,32.1167,-9.0833,Marrakech-Safi
+Chouafa,34.9468,-6.1667,Rabat-Salé-Kénitra
+Foum el Anser,32.3718,-6.2613,Béni Mellal-Khénifra
+Assa,28.6086,-9.4269,Guelmim-Oued Noun
+Lamrasla,32.0247,-8.9153,Marrakech-Safi
+Aït Bouchta,35.1056,-3.8503,Tanger-Tétouan-Al Hoceïma
+Bni Bouayach,35.0986,-3.8397,Tanger-Tétouan-Al Hoceïma
+Ikniwn,31.1736,-5.6733,Drâa-Tafilalet
+Bouarouss,34.3667,-4.8167,Fès-Meknès
+Ghouazi,34.4667,-5.3,Fès-Meknès
+Sidi Allal Tazi,34.5197,-6.3236,Rabat-Salé-Kénitra
+Douar Oulad Mbarek,34.2833,-4.3167,Fès-Meknès
+Laatatra,32.6315,-8.4148,Casablanca-Settat
+Aït Majdane,31.8514,-6.9658,Béni Mellal-Khénifra
+Sahel,34.9667,-4.55,Tanger-Tétouan-Al Hoceïma
+Dar Chaifat,32.55,-7.5,Casablanca-Settat
+Awlouz,30.7,-8.15,Souss-Massa
+Milla’ab,31.4737,-4.7424,Drâa-Tafilalet
+Ketama,34.9158,-4.5686,Tanger-Tétouan-Al Hoceïma
+Galaz,34.55,-4.8,Fès-Meknès
+Chouafaa,34.7667,-6.05,Rabat-Salé-Kénitra
+Tagounite,29.9585,-5.9151,Drâa-Tafilalet
+Sidi Yakoub,31.6667,-7.0667,Béni Mellal-Khénifra
+Knemis Dades,31.309,-6.028,Drâa-Tafilalet
+Oulad Amrane,32.2833,-9.2333,Marrakech-Safi
+Qal’at Mgouna,31.2414,-6.1283,Drâa-Tafilalet
+Douar Lamjaara,34.6147,-5.2887,Tanger-Tétouan-Al Hoceïma
+Ratba,34.7833,-4.9333,Fès-Meknès
+Sidi Lamine,32.9,-6.05,Béni Mellal-Khénifra
+Ouaouzgane,35.0167,-4.5167,Tanger-Tétouan-Al Hoceïma
+Ribat Al Khayr,33.82,-4.41,Fès-Meknès
+Agourai,33.6333,-5.5833,Fès-Meknès
+Sidi Ettiji,32.1717,-8.8686,Marrakech-Safi
+Douar Tabouda,34.7167,-5.1333,Fès-Meknès
+Zirara,32.35,-8.5333,Casablanca-Settat
+Mensora,34.8356,-4.9655,Tanger-Tétouan-Al Hoceïma
+Tamallalt,31.8289,-7.5261,Marrakech-Safi
+Goulmima,31.6944,-4.9592,Drâa-Tafilalet
+Outat Oulad Al Haj,33.3333,-3.6833,Fès-Meknès
+Sebt Aït Saghiouchen,34.0122,-4.5536,Fès-Meknès
+’Ayn Bni Mathar,34.0889,-2.0247,Oriental
+Timezgana,34.5833,-4.7333,Fès-Meknès
+Talsint,32.5398,-3.4408,Oriental
+Al Qbab,32.7333,-5.5167,Béni Mellal-Khénifra
+Bni Tajjit,32.2833,-3.4833,Oriental
+Zegzel,34.8407,-2.3543,Oriental
+Douar Azla,35.5564,-5.2453,Tanger-Tétouan-Al Hoceïma
+Masmouda,34.7862,-5.7078,Tanger-Tétouan-Al Hoceïma
+Ait Yaazem,33.7333,-5.5833,Fès-Meknès
+Bouchabel,34.3833,-5.0167,Fès-Meknès
+Bni Quolla,34.738,-5.5441,Tanger-Tétouan-Al Hoceïma
+Bou Djeniba,32.9,-6.7833,Béni Mellal-Khénifra
+Khat Azakane,32.2226,-9.1343,Marrakech-Safi
+Sidi Azzouz,31.7667,-7.6667,Marrakech-Safi
+Zemrane,31.67,-7.44,Marrakech-Safi
+Caidat Sidi Boubker El Haj,34.9148,-6.0735,Rabat-Salé-Kénitra
+L’Oulja,34.2894,-4.9481,Fès-Meknès
+Ras el Oued,34.15,-4.0,Fès-Meknès
+Haddada,34.2236,-6.5111,Rabat-Salé-Kénitra
+Sidi Allal el Bahraoui,33.983,-6.417,Rabat-Salé-Kénitra
+Tamazouzt,31.3833,-8.3833,Marrakech-Safi
+Ras El Oued,34.339,-4.5558,Fès-Meknès
+Aïn Mediouna,34.5,-4.55,Fès-Meknès
+Sebt Bni Smith,35.1373,-4.7107,Tanger-Tétouan-Al Hoceïma
+Skhour Rehamna,32.4833,-7.9167,Marrakech-Safi
+Al Hammam,33.1868,-5.6225,Béni Mellal-Khénifra
+Ezzhiliga,33.3,-6.5333,Rabat-Salé-Kénitra
+Anazzou,30.6333,-8.05,Souss-Massa
+Tendrara,33.05,-2.0,Oriental
+Aç-çahrij,31.8,-7.14,Marrakech-Safi
+Moul El Bergui,32.5113,-8.9849,Marrakech-Safi
+Aïn Jemaa,34.0333,-5.8,Fès-Meknès
+Tazert,31.6597,-7.4092,Marrakech-Safi
+Souk Et-Tleta des Oulad Hamdane,33.1047,-8.2495,Casablanca-Settat
+Tirhassaline,32.7833,-5.65,Béni Mellal-Khénifra
+Douar El Arbaa Bou Quorra,34.749,-5.1982,Tanger-Tétouan-Al Hoceïma
+Oulad Bou Rahmoun,32.2954,-6.6668,Béni Mellal-Khénifra
+Mellila,33.3833,-7.1333,Casablanca-Settat
+Sabbah,33.8036,-7.0372,Rabat-Salé-Kénitra
+Midar,34.95,-3.5333,Oriental
+Esbiaat,32.2044,-8.5608,Marrakech-Safi
+Douar Souk L‘qolla,35.0718,-5.5702,Tanger-Tétouan-Al Hoceïma
+Tabant,31.6581,-6.42,Béni Mellal-Khénifra
+’Tlat Bni Oukil,32.577,-6.84,Béni Mellal-Khénifra
+Sidi Zouine,31.6706,-8.3508,Marrakech-Safi
+Oued Jdida,33.9333,-5.3667,Fès-Meknès
+Gourrama,32.3333,-4.0833,Drâa-Tafilalet
+Aghbal,34.9394,-2.1272,Oriental
+Nzalat Laadam,32.1,-7.95,Marrakech-Safi
+Ighrem n’Ougdal,31.2333,-7.4333,Drâa-Tafilalet
+Bni Darkoul,35.0563,-5.0688,Tanger-Tétouan-Al Hoceïma
+Driouch,34.9833,-3.3833,Oriental
+Douar Oulad Driss,31.9039,-8.3024,Marrakech-Safi
+Oulad Driss,31.9996,-8.2276,Marrakech-Safi
+Mediouna,33.45,-7.51,Casablanca-Settat
+Ifrane,33.5333,-5.1167,Fès-Meknès
+Wawizaght,32.1586,-6.355,Béni Mellal-Khénifra
+Ayt ’Attou ou L’Arbi,31.5456,-8.2967,Marrakech-Safi
+Madagh,35.0133,-2.3397,Oriental
+Boula’wane,32.8607,-8.053,Casablanca-Settat
+Tagalft,32.2389,-6.1238,Béni Mellal-Khénifra
+Ourtzagh,34.55,-4.9333,Fès-Meknès
+Sidi Azzouz,34.5411,-5.7516,Rabat-Salé-Kénitra
+Zaouiat Moulay Bouchta El Khammar,34.4833,-5.1167,Fès-Meknès
+Ihaddadene,31.2,-9.65,Marrakech-Safi
+Ait Yazza,30.5063,-8.7931,Souss-Massa
+Ben Taieb,35.0837,-3.4696,Oriental
+Tafrant,34.625,-5.1242,Fès-Meknès
+Bou Izakarn,29.1667,-9.7333,Guelmim-Oued Noun
+Douar Hammadi,31.609,-8.4604,Marrakech-Safi
+Bezou,32.0833,-7.05,Béni Mellal-Khénifra
+Talwat,31.2883,-7.2372,Drâa-Tafilalet
+Sidi Abdelkarim,33.1869,-7.2333,Casablanca-Settat
+Temsamane,35.1167,-3.6333,Oriental
+Oulad Chikh,32.8544,-7.5386,Casablanca-Settat
+Toulal,32.3036,-3.9861,Drâa-Tafilalet
+Khmis Sidi al ’Aydi,33.1228,-7.6219,Casablanca-Settat
+Arbaa Laaounate,32.7446,-8.1942,Casablanca-Settat
+Douar Lehgagcha,32.55,-8.7167,Casablanca-Settat
+Mqam at Tolba,34.0173,-6.25,Rabat-Salé-Kénitra
+Targuist,34.95,-4.3,Tanger-Tétouan-Al Hoceïma
+Kissane Ltouqi,34.6,-5.0833,Fès-Meknès
+Tounfit,32.4667,-5.2333,Drâa-Tafilalet
+Reggada,29.5205,-9.6664,Souss-Massa
+Sebt Labrikiyne,32.2944,-8.0722,Marrakech-Safi
+El Kansera,34.0419,-5.9272,Rabat-Salé-Kénitra
+Douar Sidi Laaroussi,31.845,-9.1586,Marrakech-Safi
+Zayda,32.8167,-4.95,Drâa-Tafilalet
+Asjen,34.85,-5.6167,Tanger-Tétouan-Al Hoceïma
+Bhalil,33.85,-4.8667,Fès-Meknès
+Ksar Sghir,35.8419,-5.5586,Tanger-Tétouan-Al Hoceïma
+Sebt Bni Garfett,35.25,-5.8333,Tanger-Tétouan-Al Hoceïma
+Bou Fekrane,33.7667,-5.4833,Fès-Meknès
+Bni Khloug,32.65,-7.3833,Casablanca-Settat
+Douar Oulad Youssef,32.4807,-6.3769,Béni Mellal-Khénifra
+Kasba Tanora,32.4751,-6.1498,Béni Mellal-Khénifra
+Aghbala,32.4833,-5.6333,Béni Mellal-Khénifra
+Tizgane,35.4136,-5.0696,Tanger-Tétouan-Al Hoceïma
+Zag,28.0167,-9.3333,Guelmim-Oued Noun
+Oulad Rahmoun,32.3278,-6.5006,Béni Mellal-Khénifra
+Laamarna,31.8944,-8.9842,Marrakech-Safi
+Bou Adel,34.5428,-4.5075,Fès-Meknès
+Aït Youssef Ou Ali,31.9833,-5.7833,Drâa-Tafilalet
+Ahermoumou,33.8184,-4.4106,Fès-Meknès
+El Menzel,33.8389,-4.5458,Fès-Meknès
+Souakene,35.1167,-5.95,Tanger-Tétouan-Al Hoceïma
+Teroual,34.6667,-5.2667,Tanger-Tétouan-Al Hoceïma
+Tamsaout,29.5333,-8.85,Souss-Massa
+Oulad Ouchchih,35.0939,-5.9454,Tanger-Tétouan-Al Hoceïma
+Ounagha,31.5333,-9.55,Marrakech-Safi
+Boumia,32.7228,-5.1053,Drâa-Tafilalet
+Oulad Fares,35.5167,-5.9333,Tanger-Tétouan-Al Hoceïma
+Oulad Aïssa,30.558,-8.614,Souss-Massa
+Jaidte Lbatma,31.6806,-7.7281,Marrakech-Safi
+Boumalne,31.4236,-6.0722,Drâa-Tafilalet
+Nkheila,32.9239,-7.0692,Casablanca-Settat
+Aj Jourf,31.4903,-4.4014,Drâa-Tafilalet
+Ar Rommani,33.5333,-6.6167,Rabat-Salé-Kénitra
+Ain Kansara,34.15,-4.8314,Fès-Meknès
+Guisser,32.7667,-7.5,Casablanca-Settat
+Gharbia,35.5153,-5.9306,Tanger-Tétouan-Al Hoceïma
+Oulad Hamdane,32.3736,-8.5395,Marrakech-Safi
+Malloussa,35.7333,-5.6333,Tanger-Tétouan-Al Hoceïma
+Tahannawt,31.3514,-7.9508,Marrakech-Safi
+Mayate,32.2667,-7.5167,Marrakech-Safi
+Steha,35.3646,-4.9306,Tanger-Tétouan-Al Hoceïma
+Al Fayd,30.6167,-8.2167,Souss-Massa
+Oulad Daoud,34.4058,-4.6939,Fès-Meknès
+Ain Beida,31.585,-8.608,Marrakech-Safi
+Souq Jamaa Fdalate,33.5911,-7.2792,Casablanca-Settat
+Sidi Yahia,30.4969,-8.8211,Souss-Massa
+Aït I’yach,32.6667,-4.9556,Drâa-Tafilalet
+Matmata,34.1,-4.55,Fès-Meknès
+Tizi Nisly,32.4667,-5.7667,Béni Mellal-Khénifra
+Zemamra,32.6215,-8.7023,Casablanca-Settat
+Oulad Amrane el Mekki,35.2167,-5.9667,Tanger-Tétouan-Al Hoceïma
+El Arba Des Bir Lenni,34.3272,-4.2039,Fès-Meknès
+Tiddas,33.5665,-6.2659,Rabat-Salé-Kénitra
+Toualet,32.7333,-7.1833,Casablanca-Settat
+Sidi Amer El Hadi,34.7992,-5.8394,Rabat-Salé-Kénitra
+Tifni,31.6281,-6.9444,Béni Mellal-Khénifra
+Tamezmout,30.8075,-6.1142,Drâa-Tafilalet
+Moulay Driss Zerhoun,34.0542,-5.5272,Fès-Meknès
+Oulad Friha,32.6108,-7.625,Casablanca-Settat
+Oulad Hamdane,32.3333,-6.3667,Béni Mellal-Khénifra
+Derdara,35.1103,-5.2872,Tanger-Tétouan-Al Hoceïma
+Sidi Kasem,35.5339,-5.2183,Tanger-Tétouan-Al Hoceïma
+Taïneste,34.5573,-4.136,Fès-Meknès
+Al M’aziz,33.6667,-6.3167,Rabat-Salé-Kénitra
+Dzouz,31.89,-7.32,Marrakech-Safi
+Bouabout,31.2667,-9.1833,Marrakech-Safi
+Tawnza,32.0944,-6.6025,Béni Mellal-Khénifra
+Douar Trougout,35.18,-3.77,Oriental
+Ahlaf,33.2833,-7.2,Casablanca-Settat
+Sidi Moussa Ben Ali,33.5594,-7.3817,Casablanca-Settat
+El Khemis des Beni Chegdal,32.4441,-6.9551,Béni Mellal-Khénifra
+Amdel,31.5617,-8.8944,Marrakech-Safi
+Ain Legdah,34.1667,-4.5,Fès-Meknès
+Laqraqra,32.4333,-7.4333,Marrakech-Safi
+Douar Sgarta,32.1667,-7.6333,Marrakech-Safi
+Lahfayr,30.57,-8.4878,Souss-Massa
+Boudenib,31.9497,-3.6078,Drâa-Tafilalet
+Tilmi,31.8189,-5.7718,Drâa-Tafilalet
+Douar Oulad Naoual,34.4936,-5.7108,Rabat-Salé-Kénitra
+Lamsabih,32.2933,-8.6889,Marrakech-Safi
+Ouaklim Oukider,31.45,-5.55,Drâa-Tafilalet
+Jem’at Oulad ’Abbou,33.1156,-7.9333,Casablanca-Settat
+Lafrayta,31.9167,-7.25,Marrakech-Safi
+Commune Sidi Youssef Ben Ahmed,33.7861,-4.8152,Fès-Meknès
+El Ghourdane,32.3205,-8.7637,Marrakech-Safi
+Jamaat Shaim,32.3486,-8.8431,Marrakech-Safi
+Touama,31.5339,-7.4872,Marrakech-Safi
+Sidi Abdellah Ben Taazizt,34.0019,-5.3695,Fès-Meknès
+Iygli,29.5001,-9.0501,Souss-Massa
+Tissa,35.0228,-4.1408,Fès-Meknès
+Douar Jwalla,31.89,-7.44,Marrakech-Safi
+Boujediane,35.1114,-5.7823,Tanger-Tétouan-Al Hoceïma
+Douar Ain Maatouf,34.4352,-4.5566,Fès-Meknès
+Zaouiet Says,32.7931,-8.6506,Casablanca-Settat
+Iazizatene,35.2544,-3.115,Oriental
+Kariat Ben Aouda,34.7667,-5.95,Rabat-Salé-Kénitra
+Farkhâna,35.2833,-3.0167,Oriental
+Takad Sahel,30.25,-9.55,Souss-Massa
+Timahdit,33.2369,-5.06,Fès-Meknès
+Bni Drar,34.8578,-1.9928,Oriental
+Figuig,32.1167,-1.2269,Oriental
+Imi Mokorn,30.1675,-9.2322,Souss-Massa
+Douar Bouchfaa,34.1014,-4.2939,Fès-Meknès
+Tanant,31.8667,-6.95,Béni Mellal-Khénifra
+Arbaa Sahel,29.5993,-9.877,Souss-Massa
+Taouloukoult,31.2167,-9.0833,Marrakech-Safi
+Agdz,30.6978,-6.4497,Drâa-Tafilalet
+Sebt Ait Ikkou,33.6686,-6.1372,Rabat-Salé-Kénitra
+Lamhadi,32.3,-9.0167,Marrakech-Safi
+Hetane,32.8403,-6.8025,Béni Mellal-Khénifra
+Itzer,32.8833,-5.05,Drâa-Tafilalet
+Toundout,31.2667,-6.5833,Drâa-Tafilalet
+Abadou,31.5797,-7.3122,Marrakech-Safi
+Aïn Zora,34.66,-3.53,Oriental
+Aït Hani,31.7786,-5.4555,Drâa-Tafilalet
+Tamanar,31.0,-9.6667,Marrakech-Safi
+Had Laaounate,32.6128,-8.2256,Casablanca-Settat
+Tourza,29.4778,-10.0158,Guelmim-Oued Noun
+Amtar,35.2385,-4.7943,Tanger-Tétouan-Al Hoceïma
+Mokrisset,34.91,-5.3536,Tanger-Tétouan-Al Hoceïma
+Tilougguit,32.0333,-6.2,Béni Mellal-Khénifra
+Sidi Bousber,34.5667,-5.3667,Tanger-Tétouan-Al Hoceïma
+Souq Sebt Says,32.7773,-8.6433,Casablanca-Settat
+Sidi Abdallah,32.5783,-7.8108,Marrakech-Safi
+Sidi Boushab,30.074,-9.279,Souss-Massa
+Zawyat Ahançal,31.8325,-6.1056,Béni Mellal-Khénifra
+Awfouss,31.6833,-4.1667,Drâa-Tafilalet
+Oulad Slim,32.7775,-7.7725,Casablanca-Settat
+Oued Amlil,34.2,-4.2833,Fès-Meknès
+Brikcha,34.9667,-5.5833,Tanger-Tétouan-Al Hoceïma
+Douar Echbanat,34.214,-5.3508,Fès-Meknès
+Tnine Sidi Lyamani,35.37,-5.97,Tanger-Tétouan-Al Hoceïma
+Beni Oulid,34.5897,-4.4514,Fès-Meknès
+Aghbalou n’Kerdous,31.6767,-5.2976,Drâa-Tafilalet
+Bounaamane,29.5283,-9.8044,Souss-Massa
+Jaqma,33.292,-7.44,Casablanca-Settat
+Dar Si Aissa,32.4199,-8.908,Marrakech-Safi
+Sgamna,32.7342,-7.2025,Casablanca-Settat
+Ksar Lmajaz,35.8428,-5.5586,Tanger-Tétouan-Al Hoceïma
+Douar Mzoura,34.3167,-5.9333,Rabat-Salé-Kénitra
+Jemaat Oulad Mhamed,33.0938,-7.0519,Casablanca-Settat
+Msila,35.2,-5.5667,Tanger-Tétouan-Al Hoceïma
+Aïn Zohra,34.1,-6.35,Rabat-Salé-Kénitra
+Za’roura,35.2167,-5.6667,Tanger-Tétouan-Al Hoceïma
+La’tamna,31.91,-7.34,Marrakech-Safi
+Jafra,31.5145,-8.7555,Marrakech-Safi
+Taghbalt,30.62,-5.35,Drâa-Tafilalet
+Bou’nane,32.0275,-3.04,Oriental
+Zaggota,34.1667,-5.5333,Rabat-Salé-Kénitra
+Tarhjicht,29.0564,-9.4281,Guelmim-Oued Noun
+Kenafif,30.4167,-9.0333,Souss-Massa
+Dar El Kebdani,35.1203,-3.3322,Oriental
+Sidi Rahhal,31.6667,-7.4833,Marrakech-Safi
+Kourimat,31.45,-9.3167,Marrakech-Safi
+Ech Chaïbat,31.6,-7.85,Marrakech-Safi
+Foum Jam’a,31.96,-6.98,Béni Mellal-Khénifra
+Douar Snada,35.0667,-4.2167,Tanger-Tétouan-Al Hoceïma
+Boudinar,35.15,-3.6333,Oriental
+Outa Bouabane,34.2606,-4.4139,Fès-Meknès
+Oulad ’Azzouz,32.7693,-6.7543,Béni Mellal-Khénifra
+Imlil,31.7567,-7.0106,Béni Mellal-Khénifra
+Tiztoutine,34.9833,-3.15,Oriental
+Tadla,32.4409,-8.3708,Marrakech-Safi
+Ain Karma,34.0071,-5.6182,Fès-Meknès
+Aghbalou Aqourar,33.9341,-4.7381,Fès-Meknès
+Douar Lehouifrat,32.28,-8.31,Marrakech-Safi
+Aklim,34.9167,-2.4333,Oriental
+Sidi Ahmed El Khadir,32.5167,-7.3833,Casablanca-Settat
+’Aïn Leuh,33.2833,-5.3833,Fès-Meknès
+Oued Laou,35.45,-5.0833,Tanger-Tétouan-Al Hoceïma
+Bni Boufrah,35.1,-4.3167,Tanger-Tétouan-Al Hoceïma
+Oulad Imloul,32.0333,-7.7167,Marrakech-Safi
+Bou Zemou,32.1114,-5.5197,Drâa-Tafilalet
+Oulad Ayyad,32.3333,-6.3833,Béni Mellal-Khénifra
+Tatoufet,35.0339,-5.7706,Tanger-Tétouan-Al Hoceïma
+Zawyat Sidi Ben Hamdoun,33.045,-7.929,Casablanca-Settat
+Bni Gmil,35.0833,-4.3833,Tanger-Tétouan-Al Hoceïma
+Douar Messassa,34.2803,-4.5336,Fès-Meknès
+Gaada,35.1594,-2.9892,Oriental
+Berkine,33.7665,-3.8438,Oriental
+El Amim,32.2067,-7.2629,Marrakech-Safi
+Tissaf,33.4,-3.5833,Fès-Meknès
+Tissint,29.9006,-7.3203,Souss-Massa
+Sidi El Hattab,32.2667,-7.2833,Marrakech-Safi
+Gammasa,31.4182,-8.3784,Marrakech-Safi
+Mhâjâr,35.12,-3.49,Oriental
+Douar Oulad Bouziane,34.2325,-5.0444,Fès-Meknès
+Ameskroud,30.5308,-9.3283,Souss-Massa
+Laanoussar,33.6833,-4.8167,Fès-Meknès
+Laghzawna,33.189,-7.684,Casablanca-Settat
+Douar Oulad Sidi Moussa,32.2726,-7.1987,Casablanca-Settat
+Sidi Lahsene,34.0999,-2.6219,Oriental
+Douar Ezzerarda,34.7667,-5.8333,Rabat-Salé-Kénitra
+Oulad Cherif,31.7667,-7.7833,Marrakech-Safi
+Tanakoub,35.1091,-5.4577,Tanger-Tétouan-Al Hoceïma
+Sidi Bou Othmane,31.9033,-7.9422,Marrakech-Safi
+Douar El Mellaliyine,35.6264,-5.3414,Tanger-Tétouan-Al Hoceïma
+Bir Tam Tam,33.9833,-4.6333,Fès-Meknès
+Tafersit,35.0167,-3.5333,Oriental
+Mwaline al Oued,33.4467,-7.3283,Casablanca-Settat
+Chtiba,32.2,-7.3,Marrakech-Safi
+Iguidiy,30.7467,-7.9267,Souss-Massa
+Sidi Ouassay,30.05,-9.6833,Souss-Massa
+Gtarna,32.9724,-7.9645,Casablanca-Settat
+Aïn el Mediour,30.4,-8.8833,Souss-Massa
+Had Dra,31.5833,-9.5333,Marrakech-Safi
+Foum Zguid,30.0833,-6.8667,Souss-Massa
+Bni Sidel,35.1392,-3.1281,Oriental
+Zawyat Sidi al Mekki,33.212,-7.717,Casablanca-Settat
+Douar Ait Taleb,32.3839,-8.1856,Marrakech-Safi
+Imilchil,32.155,-5.6347,Drâa-Tafilalet
+Iskourane,30.8433,-9.8186,Marrakech-Safi
+Msemrir,31.7028,-5.8125,Drâa-Tafilalet
+Ait Ikkou,33.669,-6.1376,Fès-Meknès
+Aït Ouaoumana,32.7128,-5.8042,Béni Mellal-Khénifra
+Agadir Melloul,30.2167,-7.8,Souss-Massa
+Amarzgane,31.05,-7.2167,Drâa-Tafilalet
+Hassi Berkane,34.8333,-2.8667,Oriental
+Saidia,35.085,-2.2392,Oriental
+Tiqqi,29.8667,-9.0667,Souss-Massa
+Bouhlou,34.1333,-4.4,Fès-Meknès
+Iaboutene,35.067,-3.967,Tanger-Tétouan-Al Hoceïma
+Tleta Taghramt,35.7877,-5.4677,Tanger-Tétouan-Al Hoceïma
+Sidi el Mokhfi,34.6039,-4.7889,Fès-Meknès
+Sidi Dahbi,33.05,-7.1833,Casablanca-Settat
+Zawiat Moulay Brahim,31.2858,-7.9656,Marrakech-Safi
+Oulad Khallouf,31.79,-7.07,Marrakech-Safi
+Oulad Khallouf,34.71,-2.58,Oriental
+Lakhzazra,33.0333,-7.05,Casablanca-Settat
+Lambarkiyine,33.2,-7.5,Casablanca-Settat
+Bir Anzarane,23.8918,-14.5364,Dakhla-Oued Ed-Dahab
+Tifariti,26.158,-10.567,Laâyoune-Sakia El Hamra
+Uad Damran,27.4181,-12.9842,Laâyoune-Sakia El Hamra
+Lemsid,26.5482,-13.8482,Laâyoune-Sakia El Hamra
